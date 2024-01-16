@@ -1,2 +1,2 @@
-# SWightman-CSC-151-LN3
-This is the folder for my spring 2024 Java programming course
+# SWightman-Jan2024-CSC151-Workspace
+This is the folder for my January 2024 Java programming course
